@@ -1,12 +1,32 @@
 .links {
     display:flex;
     flex-direction: row;
-    justify-content:center;
+    /* justify-content:center; */
+    color: whitesmoke
     /* align-items: center; */
  
 }
+a {
+    color:white
+}
 
-/* .img-fluid portfolio-image {
-    max-width: 80vw;
-    height:30vw;
-} */
+.d-block {
+    color:black
+}
+
+.portfolio-box-caption {
+    text-align: justify;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+    margin-left: .6rem;
+    margin-right: .6rem;
+}
+
+.project-info {
+    margin-bottom: 1rem;
+}
+.img-fluid {
+ padding-left: .6rem;
+ padding-right: .6rem;
+ 
+}

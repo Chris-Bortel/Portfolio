@@ -9692,6 +9692,7 @@ header.masthead h1 {
 
 #portfolio .container-fluid {
   max-width: 1920px;
+  background-color: #4e4951;
 }
 
 #portfolio .container-fluid .portfolio-box {
@@ -9725,6 +9726,7 @@ header.masthead h1 {
 
 #portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-name {
   font-size: 1.2rem;
+  color: rgba(255, 255, 255, 0.5) !important;
 }
 
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption {
