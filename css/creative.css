@@ -9690,6 +9690,10 @@ header.masthead h1 {
   }
 }
 
+#portfolio {
+  background-color: #4e4951;
+}
+
 #portfolio .container-fluid {
   max-width: 1920px;
   background-color: #4e4951;
@@ -9731,4 +9735,8 @@ header.masthead h1 {
 
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
+}
+
+.portfolio {
+  background-color: #4e4951;
 }

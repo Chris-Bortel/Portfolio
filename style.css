@@ -22,6 +22,10 @@ a {
 .mb-4 {
     text-align: justify;
 }
+
+.no-gutters {
+    padding-bottom: 1rem;
+}
 .portfolio-box-caption {
     text-align: justify;
     margin-top: 1rem;
@@ -46,3 +50,7 @@ a {
     background: #f8f9fa;
     color: black;
 }
+
+
+
+
