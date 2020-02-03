@@ -51,6 +51,13 @@ a {
     color: black;
 }
 
+.rainier {
+    background: url("img/rainier.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
 
 
 
