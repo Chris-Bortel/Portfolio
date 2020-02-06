@@ -1,3 +1,13 @@
+/* Home Page */
+.title {
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+}
+
+.intro {
+    /* padding-top: 4rem; */
+}
+/* Portfolio */
 .links {
     display:flex;
     flex-direction: row;
@@ -58,6 +68,15 @@ a {
     background-attachment: scroll;
     background-size: cover;
 }
+
+.icons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color:black;
+
+}
+
 
 
 
