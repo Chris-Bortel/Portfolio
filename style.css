@@ -24,6 +24,10 @@ a {
 .a1 {
     padding-right:.5rem;
 }
+.a2 {
+    padding-left:.5rem;
+}
+
 
 .d-block {
     color:black
@@ -51,6 +55,7 @@ a {
  padding-top: .8rem;
  padding-left: .6rem;
  padding-right: .6rem;
+ border-radius: 1.5rem
  
 }
 
