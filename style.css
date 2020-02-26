@@ -1,7 +1,7 @@
 /* Home Page */
 .title {
     margin-top: 4rem;
-    margin-bottom: 3rem;
+    /* margin-bottom: 3rem; */
 }
 
 .intro {
@@ -53,6 +53,7 @@ a {
 }
 .img-fluid {
  padding-top: .8rem;
+ padding-bottom: 1rem;
  padding-left: .6rem;
  padding-right: .6rem;
  border-radius: 1.5rem
